@@ -1,0 +1,13 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+sqlalchemy>=2.0,<3
+pydantic-settings>=2.7,<3
+openai>=2.0,<3
+keyring>=25,<27
+langgraph>=1,<2
+ddgs>=9,<10
+browser-use==0.13.10
+pywin32>=306; sys_platform == "win32"
+anthropic>=0.76,<1
+croniter>=6,<7
+tzdata>=2025.1

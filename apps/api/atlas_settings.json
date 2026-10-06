@@ -1,0 +1,5 @@
+{
+  "provider": "hackclub",
+  "model": "openai/gpt-4o-mini",
+  "hermes_base_url": "http://127.0.0.1:8642/v1"
+}

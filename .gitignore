@@ -1,0 +1,14 @@
+.env
+.next/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+apps/api/atlas.db
+apps/api/.venv/
+work/runtime/
+apps/api/atlas_settings.json
+apps/api/atlas_security.json
+apps/api/atlas_memory.json
